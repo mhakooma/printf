@@ -176,4 +176,4 @@ All the above options work well together.
 
 ### Authors
 * [Miyanda Hakooma](https://github.com/mhakooma/printf)
-* [Adetoun Lawal](https://github.com/mhakooma/printf/tree/main)
+* [Adetoun Lawal](https://github.com/mhakooma/printf/tree/Adetounl)
